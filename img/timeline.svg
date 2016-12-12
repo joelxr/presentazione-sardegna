@@ -1,0 +1,249 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/PR-SVG-20010719/DTD/svg10.dtd">
+<svg width="36cm" height="19cm" viewBox="-5 23 709 361" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <g>
+    <rect style="fill: #362700" x="112.481" y="26.9926" width="112.15" height="89.7333"/>
+    <path style="fill: #362700" d="M 112.481,26.9926 A 30,30 0 0 0 82.4806,56.9926 L 112.481,56.9926 z"/>
+    <path style="fill: #362700" d="M 254.631,56.9926 A 30,30 0 0 0 224.631,26.9926 L 224.631,56.9926 z"/>
+    <rect style="fill: #362700" x="82.4806" y="56.9926" width="172.15" height="29.7333"/>
+    <path style="fill: #362700" d="M 82.4806,86.7259 A 30,30 0 0 0 112.481,116.726 L 112.481,86.7259 z"/>
+    <path style="fill: #362700" d="M 224.631,116.726 A 30,30 0 0 0 254.631,86.7259 L 224.631,86.7259 z"/>
+    <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #362700" x1="112.481" y1="26.9926" x2="224.631" y2="26.9926"/>
+    <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #362700" x1="112.481" y1="116.726" x2="224.631" y2="116.726"/>
+    <path style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #362700" d="M 112.481,26.9926 A 30,30 0 0 0 82.4806,56.9926"/>
+    <path style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #362700" d="M 254.631,56.9926 A 30,30 0 0 0 224.631,26.9926"/>
+    <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #362700" x1="82.4806" y1="56.9926" x2="82.4806" y2="86.7259"/>
+    <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #362700" x1="254.631" y1="56.9926" x2="254.631" y2="86.7259"/>
+    <path style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #362700" d="M 82.4806,86.7259 A 30,30 0 0 0 112.481,116.726"/>
+    <path style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #362700" d="M 224.631,116.726 A 30,30 0 0 0 254.631,86.7259"/>
+    <text font-size="27.0933" style="fill: #d4c9ae;text-anchor:middle;font-family:Akrobat;font-style:normal;font-weight:800" x="168.556" y="65.0926">
+      <tspan x="168.556" y="65.0926">15000 a.C.</tspan>
+      <tspan x="168.556" y="98.9593">Prime persone</tspan>
+    </text>
+  </g>
+  <g>
+    <rect style="fill: #362700" x="341.901" y="26.0893" width="56" height="89.7333"/>
+    <path style="fill: #362700" d="M 341.901,26.0893 A 30,30 0 0 0 311.901,56.0893 L 341.901,56.0893 z"/>
+    <path style="fill: #362700" d="M 427.901,56.0893 A 30,30 0 0 0 397.901,26.0893 L 397.901,56.0893 z"/>
+    <rect style="fill: #362700" x="311.901" y="56.0893" width="116" height="29.7333"/>
+    <path style="fill: #362700" d="M 311.901,85.8226 A 30,30 0 0 0 341.901,115.823 L 341.901,85.8226 z"/>
+    <path style="fill: #362700" d="M 397.901,115.823 A 30,30 0 0 0 427.901,85.8226 L 397.901,85.8226 z"/>
+    <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #362700" x1="341.901" y1="26.0893" x2="397.901" y2="26.0893"/>
+    <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #362700" x1="341.901" y1="115.823" x2="397.901" y2="115.823"/>
+    <path style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #362700" d="M 341.901,26.0893 A 30,30 0 0 0 311.901,56.0893"/>
+    <path style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #362700" d="M 427.901,56.0893 A 30,30 0 0 0 397.901,26.0893"/>
+    <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #362700" x1="311.901" y1="56.0893" x2="311.901" y2="85.8226"/>
+    <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #362700" x1="427.901" y1="56.0893" x2="427.901" y2="85.8226"/>
+    <path style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #362700" d="M 311.901,85.8226 A 30,30 0 0 0 341.901,115.823"/>
+    <path style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #362700" d="M 397.901,115.823 A 30,30 0 0 0 427.901,85.8226"/>
+    <text font-size="27.0933" style="fill: #d4c9ae;text-anchor:middle;font-family:Akrobat;font-style:normal;font-weight:800" x="369.901" y="64.1893">
+      <tspan x="369.901" y="64.1893">1500 a.C.</tspan>
+      <tspan x="369.901" y="98.056">I Nuragui</tspan>
+    </text>
+  </g>
+  <g>
+    <rect style="fill: #362700" x="532.016" y="24.7399" width="56" height="89.7333"/>
+    <path style="fill: #362700" d="M 532.016,24.7399 A 30,30 0 0 0 502.016,54.7399 L 532.016,54.7399 z"/>
+    <path style="fill: #362700" d="M 618.016,54.7399 A 30,30 0 0 0 588.016,24.7399 L 588.016,54.7399 z"/>
+    <rect style="fill: #362700" x="502.016" y="54.7399" width="116" height="29.7333"/>
+    <path style="fill: #362700" d="M 502.016,84.4732 A 30,30 0 0 0 532.016,114.473 L 532.016,84.4732 z"/>
+    <path style="fill: #362700" d="M 588.016,114.473 A 30,30 0 0 0 618.016,84.4732 L 588.016,84.4732 z"/>
+    <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #362700" x1="532.016" y1="24.7399" x2="588.016" y2="24.7399"/>
+    <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #362700" x1="532.016" y1="114.473" x2="588.016" y2="114.473"/>
+    <path style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #362700" d="M 532.016,24.7399 A 30,30 0 0 0 502.016,54.7399"/>
+    <path style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #362700" d="M 618.016,54.7399 A 30,30 0 0 0 588.016,24.7399"/>
+    <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #362700" x1="502.016" y1="54.7399" x2="502.016" y2="84.4732"/>
+    <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #362700" x1="618.016" y1="54.7399" x2="618.016" y2="84.4732"/>
+    <path style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #362700" d="M 502.016,84.4732 A 30,30 0 0 0 532.016,114.473"/>
+    <path style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #362700" d="M 588.016,114.473 A 30,30 0 0 0 618.016,84.4732"/>
+    <text font-size="27.0933" style="fill: #d4c9ae;text-anchor:middle;font-family:Akrobat;font-style:normal;font-weight:800" x="560.016" y="62.8399">
+      <tspan x="560.016" y="62.8399">1000 a.C.</tspan>
+      <tspan x="560.016" y="96.7065">I Fenici</tspan>
+    </text>
+  </g>
+  <g>
+    <rect style="fill: #362700" x="521.901" y="166.815" width="92.5" height="89.7333"/>
+    <path style="fill: #362700" d="M 521.901,166.815 A 30,30 0 0 0 491.901,196.815 L 521.901,196.815 z"/>
+    <path style="fill: #362700" d="M 644.401,196.815 A 30,30 0 0 0 614.401,166.815 L 614.401,196.815 z"/>
+    <rect style="fill: #362700" x="491.901" y="196.815" width="152.5" height="29.7333"/>
+    <path style="fill: #362700" d="M 491.901,226.549 A 30,30 0 0 0 521.901,256.549 L 521.901,226.549 z"/>
+    <path style="fill: #362700" d="M 614.401,256.549 A 30,30 0 0 0 644.401,226.549 L 614.401,226.549 z"/>
+    <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #362700" x1="521.901" y1="166.815" x2="614.401" y2="166.815"/>
+    <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #362700" x1="521.901" y1="256.549" x2="614.401" y2="256.549"/>
+    <path style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #362700" d="M 521.901,166.815 A 30,30 0 0 0 491.901,196.815"/>
+    <path style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #362700" d="M 644.401,196.815 A 30,30 0 0 0 614.401,166.815"/>
+    <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #362700" x1="491.901" y1="196.815" x2="491.901" y2="226.549"/>
+    <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #362700" x1="644.401" y1="196.815" x2="644.401" y2="226.549"/>
+    <path style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #362700" d="M 491.901,226.549 A 30,30 0 0 0 521.901,256.549"/>
+    <path style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #362700" d="M 614.401,256.549 A 30,30 0 0 0 644.401,226.549"/>
+    <text font-size="27.0933" style="fill: #d4c9ae;text-anchor:middle;font-family:Akrobat;font-style:normal;font-weight:800" x="568.151" y="204.915">
+      <tspan x="568.151" y="204.915">600 a.C.</tspan>
+      <tspan x="568.151" y="238.782">I Cartaginesi</tspan>
+    </text>
+  </g>
+  <g>
+    <rect style="fill: #362700" x="337.261" y="163.153" width="92.5" height="89.7333"/>
+    <path style="fill: #362700" d="M 337.261,163.153 A 30,30 0 0 0 307.261,193.153 L 337.261,193.153 z"/>
+    <path style="fill: #362700" d="M 459.761,193.153 A 30,30 0 0 0 429.761,163.153 L 429.761,193.153 z"/>
+    <rect style="fill: #362700" x="307.261" y="193.153" width="152.5" height="29.7333"/>
+    <path style="fill: #362700" d="M 307.261,222.886 A 30,30 0 0 0 337.261,252.886 L 337.261,222.886 z"/>
+    <path style="fill: #362700" d="M 429.761,252.886 A 30,30 0 0 0 459.761,222.886 L 429.761,222.886 z"/>
+    <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #362700" x1="337.261" y1="163.153" x2="429.761" y2="163.153"/>
+    <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #362700" x1="337.261" y1="252.886" x2="429.761" y2="252.886"/>
+    <path style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #362700" d="M 337.261,163.153 A 30,30 0 0 0 307.261,193.153"/>
+    <path style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #362700" d="M 459.761,193.153 A 30,30 0 0 0 429.761,163.153"/>
+    <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #362700" x1="307.261" y1="193.153" x2="307.261" y2="222.886"/>
+    <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #362700" x1="459.761" y1="193.153" x2="459.761" y2="222.886"/>
+    <path style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #362700" d="M 307.261,222.886 A 30,30 0 0 0 337.261,252.886"/>
+    <path style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #362700" d="M 429.761,252.886 A 30,30 0 0 0 459.761,222.886"/>
+    <text font-size="27.0933" style="fill: #d4c9ae;text-anchor:middle;font-family:Akrobat;font-style:normal;font-weight:800" x="383.511" y="201.253">
+      <tspan x="383.511" y="201.253">239 a.C.</tspan>
+      <tspan x="383.511" y="235.119">I Romani</tspan>
+    </text>
+  </g>
+  <g>
+    <rect style="fill: #362700" x="198.115" y="164.888" width="48.95" height="89.7333"/>
+    <path style="fill: #362700" d="M 198.115,164.888 A 30,30 0 0 0 168.115,194.888 L 198.115,194.888 z"/>
+    <path style="fill: #362700" d="M 277.065,194.888 A 30,30 0 0 0 247.065,164.888 L 247.065,194.888 z"/>
+    <rect style="fill: #362700" x="168.115" y="194.888" width="108.95" height="29.7333"/>
+    <path style="fill: #362700" d="M 168.115,224.621 A 30,30 0 0 0 198.115,254.621 L 198.115,224.621 z"/>
+    <path style="fill: #362700" d="M 247.065,254.621 A 30,30 0 0 0 277.065,224.621 L 247.065,224.621 z"/>
+    <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #362700" x1="198.115" y1="164.888" x2="247.065" y2="164.888"/>
+    <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #362700" x1="198.115" y1="254.621" x2="247.065" y2="254.621"/>
+    <path style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #362700" d="M 198.115,164.888 A 30,30 0 0 0 168.115,194.888"/>
+    <path style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #362700" d="M 277.065,194.888 A 30,30 0 0 0 247.065,164.888"/>
+    <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #362700" x1="168.115" y1="194.888" x2="168.115" y2="224.621"/>
+    <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #362700" x1="277.065" y1="194.888" x2="277.065" y2="224.621"/>
+    <path style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #362700" d="M 168.115,224.621 A 30,30 0 0 0 198.115,254.621"/>
+    <path style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #362700" d="M 247.065,254.621 A 30,30 0 0 0 277.065,224.621"/>
+    <text font-size="27.0933" style="fill: #d4c9ae;text-anchor:middle;font-family:Akrobat;font-style:normal;font-weight:800" x="222.59" y="202.988">
+      <tspan x="222.59" y="202.988">480</tspan>
+      <tspan x="222.59" y="236.854">I Vandali</tspan>
+    </text>
+  </g>
+  <g>
+    <rect style="fill: #362700" x="41.6206" y="163.538" width="63.6" height="89.7333"/>
+    <path style="fill: #362700" d="M 41.6206,163.538 A 30,30 0 0 0 11.6206,193.538 L 41.6206,193.538 z"/>
+    <path style="fill: #362700" d="M 135.221,193.538 A 30,30 0 0 0 105.221,163.538 L 105.221,193.538 z"/>
+    <rect style="fill: #362700" x="11.6206" y="193.538" width="123.6" height="29.7333"/>
+    <path style="fill: #362700" d="M 11.6206,223.272 A 30,30 0 0 0 41.6206,253.272 L 41.6206,223.272 z"/>
+    <path style="fill: #362700" d="M 105.221,253.272 A 30,30 0 0 0 135.221,223.272 L 105.221,223.272 z"/>
+    <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #362700" x1="41.6206" y1="163.538" x2="105.221" y2="163.538"/>
+    <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #362700" x1="41.6206" y1="253.272" x2="105.221" y2="253.272"/>
+    <path style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #362700" d="M 41.6206,163.538 A 30,30 0 0 0 11.6206,193.538"/>
+    <path style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #362700" d="M 135.221,193.538 A 30,30 0 0 0 105.221,163.538"/>
+    <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #362700" x1="11.6206" y1="193.538" x2="11.6206" y2="223.272"/>
+    <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #362700" x1="135.221" y1="193.538" x2="135.221" y2="223.272"/>
+    <path style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #362700" d="M 11.6206,223.272 A 30,30 0 0 0 41.6206,253.272"/>
+    <path style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #362700" d="M 105.221,253.272 A 30,30 0 0 0 135.221,223.272"/>
+    <text font-size="27.0933" style="fill: #d4c9ae;text-anchor:middle;font-family:Akrobat;font-style:normal;font-weight:800" x="73.4206" y="201.638">
+      <tspan x="73.4206" y="201.638">530</tspan>
+      <tspan x="73.4206" y="235.505">I Bizantini</tspan>
+    </text>
+  </g>
+  <g>
+    <rect style="fill: #362700" x="26.9509" y="293.276" width="81.45" height="89.7333"/>
+    <path style="fill: #362700" d="M 26.9509,293.276 A 30,30 0 0 0 -3.04907,323.276 L 26.9509,323.276 z"/>
+    <path style="fill: #362700" d="M 138.401,323.276 A 30,30 0 0 0 108.401,293.276 L 108.401,323.276 z"/>
+    <rect style="fill: #362700" x="-3.04907" y="323.276" width="141.45" height="29.7333"/>
+    <path style="fill: #362700" d="M -3.04907,353.01 A 30,30 0 0 0 26.9509,383.01 L 26.9509,353.01 z"/>
+    <path style="fill: #362700" d="M 108.401,383.01 A 30,30 0 0 0 138.401,353.01 L 108.401,353.01 z"/>
+    <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #362700" x1="26.9509" y1="293.276" x2="108.401" y2="293.276"/>
+    <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #362700" x1="26.9509" y1="383.01" x2="108.401" y2="383.01"/>
+    <path style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #362700" d="M 26.9509,293.276 A 30,30 0 0 0 -3.04907,323.276"/>
+    <path style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #362700" d="M 138.401,323.276 A 30,30 0 0 0 108.401,293.276"/>
+    <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #362700" x1="-3.04907" y1="323.276" x2="-3.04907" y2="353.01"/>
+    <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #362700" x1="138.401" y1="323.276" x2="138.401" y2="353.01"/>
+    <path style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #362700" d="M -3.04907,353.01 A 30,30 0 0 0 26.9509,383.01"/>
+    <path style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #362700" d="M 108.401,383.01 A 30,30 0 0 0 138.401,353.01"/>
+    <text font-size="27.0933" style="fill: #d4c9ae;text-anchor:middle;font-family:Akrobat;font-style:normal;font-weight:800" x="67.6759" y="331.376">
+      <tspan x="67.6759" y="331.376">1300</tspan>
+      <tspan x="67.6759" y="365.243">Gli Spanogli</tspan>
+    </text>
+  </g>
+  <g>
+    <rect style="fill: #362700" x="229.967" y="292.698" width="154.35" height="89.7333"/>
+    <path style="fill: #362700" d="M 229.967,292.698 A 30,30 0 0 0 199.967,322.698 L 229.967,322.698 z"/>
+    <path style="fill: #362700" d="M 414.317,322.698 A 30,30 0 0 0 384.317,292.698 L 384.317,322.698 z"/>
+    <rect style="fill: #362700" x="199.967" y="322.698" width="214.35" height="29.7333"/>
+    <path style="fill: #362700" d="M 199.967,352.431 A 30,30 0 0 0 229.967,382.431 L 229.967,352.431 z"/>
+    <path style="fill: #362700" d="M 384.317,382.431 A 30,30 0 0 0 414.317,352.431 L 384.317,352.431 z"/>
+    <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #362700" x1="229.967" y1="292.698" x2="384.317" y2="292.698"/>
+    <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #362700" x1="229.967" y1="382.431" x2="384.317" y2="382.431"/>
+    <path style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #362700" d="M 229.967,292.698 A 30,30 0 0 0 199.967,322.698"/>
+    <path style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #362700" d="M 414.317,322.698 A 30,30 0 0 0 384.317,292.698"/>
+    <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #362700" x1="199.967" y1="322.698" x2="199.967" y2="352.431"/>
+    <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #362700" x1="414.317" y1="322.698" x2="414.317" y2="352.431"/>
+    <path style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #362700" d="M 199.967,352.431 A 30,30 0 0 0 229.967,382.431"/>
+    <path style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #362700" d="M 384.317,382.431 A 30,30 0 0 0 414.317,352.431"/>
+    <text font-size="27.0933" style="fill: #d4c9ae;text-anchor:middle;font-family:Akrobat;font-style:normal;font-weight:800" x="307.142" y="330.798">
+      <tspan x="307.142" y="330.798">1700</tspan>
+      <tspan x="307.142" y="364.665">Regno di Sardegna</tspan>
+    </text>
+  </g>
+  <g>
+    <rect style="fill: #362700" x="477.984" y="292.891" width="195.85" height="89.7333"/>
+    <path style="fill: #362700" d="M 477.984,292.891 A 30,30 0 0 0 447.984,322.891 L 477.984,322.891 z"/>
+    <path style="fill: #362700" d="M 703.834,322.891 A 30,30 0 0 0 673.834,292.891 L 673.834,322.891 z"/>
+    <rect style="fill: #362700" x="447.984" y="322.891" width="255.85" height="29.7333"/>
+    <path style="fill: #362700" d="M 447.984,352.624 A 30,30 0 0 0 477.984,382.624 L 477.984,352.624 z"/>
+    <path style="fill: #362700" d="M 673.834,382.624 A 30,30 0 0 0 703.834,352.624 L 673.834,352.624 z"/>
+    <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #362700" x1="477.984" y1="292.891" x2="673.834" y2="292.891"/>
+    <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #362700" x1="477.984" y1="382.624" x2="673.834" y2="382.624"/>
+    <path style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #362700" d="M 477.984,292.891 A 30,30 0 0 0 447.984,322.891"/>
+    <path style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #362700" d="M 703.834,322.891 A 30,30 0 0 0 673.834,292.891"/>
+    <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #362700" x1="447.984" y1="322.891" x2="447.984" y2="352.624"/>
+    <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #362700" x1="703.834" y1="322.891" x2="703.834" y2="352.624"/>
+    <path style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #362700" d="M 447.984,352.624 A 30,30 0 0 0 477.984,382.624"/>
+    <path style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #362700" d="M 673.834,382.624 A 30,30 0 0 0 703.834,352.624"/>
+    <text font-size="27.0933" style="fill: #d4c9ae;text-anchor:middle;font-family:Akrobat;font-style:normal;font-weight:800" x="575.909" y="330.991">
+      <tspan x="575.909" y="330.991">1861</tspan>
+      <tspan x="575.909" y="364.857">Regno d'Italia</tspan>
+    </text>
+  </g>
+  <g>
+    <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="254.631" y1="71.8593" x2="301.165" y2="71.4946"/>
+    <polygon style="fill: #000000" points="308.665,71.4358 298.704,76.514 301.165,71.4946 298.626,66.5143 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="308.665,71.4358 298.704,76.514 301.165,71.4946 298.626,66.5143 "/>
+  </g>
+  <g>
+    <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="427.901" y1="70.956" x2="491.279" y2="70.3086"/>
+    <polygon style="fill: #000000" points="498.778,70.232 488.83,75.3339 491.279,70.3086 488.728,65.3344 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="498.778,70.232 488.83,75.3339 491.279,70.3086 488.728,65.3344 "/>
+  </g>
+  <g>
+    <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="562.642" y1="115.471" x2="564.968" y2="156.098"/>
+    <polygon style="fill: #000000" points="565.397,163.586 559.834,153.888 564.968,156.098 569.817,153.316 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="565.397,163.586 559.834,153.888 564.968,156.098 569.817,153.316 "/>
+  </g>
+  <g>
+    <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="490.932" y1="210.15" x2="470.464" y2="209.744"/>
+    <polygon style="fill: #000000" points="462.965,209.596 473.063,204.795 470.464,209.744 472.864,214.793 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="462.965,209.596 473.063,204.795 470.464,209.744 472.864,214.793 "/>
+  </g>
+  <g>
+    <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="306.262" y1="208.852" x2="287.809" y2="209.051"/>
+    <polygon style="fill: #000000" points="280.31,209.132 290.255,204.025 287.809,209.051 290.363,214.024 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="280.31,209.132 290.255,204.025 287.809,209.051 290.363,214.024 "/>
+  </g>
+  <g>
+    <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="167.116" y1="209.253" x2="145.951" y2="209.061"/>
+    <polygon style="fill: #000000" points="138.451,208.993 148.496,204.084 145.951,209.061 148.405,214.083 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="138.451,208.993 148.496,204.084 145.951,209.061 148.405,214.083 "/>
+  </g>
+  <g>
+    <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="71.3894" y1="254.277" x2="70.1378" y2="282.544"/>
+    <polygon style="fill: #000000" points="69.806,290.037 65.2533,279.825 70.1378,282.544 75.2435,280.268 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="69.806,290.037 65.2533,279.825 70.1378,282.544 75.2435,280.268 "/>
+  </g>
+  <g>
+    <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="139.381" y1="337.97" x2="189.234" y2="337.849"/>
+    <polygon style="fill: #000000" points="196.734,337.831 186.746,342.855 189.234,337.849 186.722,332.855 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="196.734,337.831 186.746,342.855 189.234,337.849 186.722,332.855 "/>
+  </g>
+  <g>
+    <line style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x1="415.32" y1="337.642" x2="437.269" y2="337.658"/>
+    <polygon style="fill: #000000" points="444.769,337.663 434.765,342.656 437.269,337.658 434.772,332.656 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="444.769,337.663 434.765,342.656 437.269,337.658 434.772,332.656 "/>
+  </g>
+</svg>
